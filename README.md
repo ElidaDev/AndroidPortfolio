@@ -1,4 +1,4 @@
 # AndroidPortfolio
 
 Elijah Fisher
-[link to vid](AndroidPortfolio/FINAL.mp4)
+[link to vid](FINAL.mp4)
